@@ -1,0 +1,5 @@
+C:\Users\George\Desktop\Autopilot - PhD\Springer2StationServer\Springer2StationServer\bin\x64\Debug\Springer2StationServer.exe
+C:\Users\George\Desktop\Autopilot - PhD\Springer2StationServer\Springer2StationServer\bin\x64\Debug\Springer2StationServer.pdb
+C:\Users\George\Desktop\Autopilot - PhD\Springer2StationServer\Springer2StationServer\obj\x64\Debug\Springer2StationServer.exe
+C:\Users\George\Desktop\Autopilot - PhD\Springer2StationServer\Springer2StationServer\obj\x64\Debug\Springer2StationServer.pdb
+C:\Users\George\Desktop\Autopilot - PhD\Springer2StationServer\Springer2StationServer\obj\x64\Debug\Springer2StationServer.csprojResolveAssemblyReference.cache
